@@ -1,0 +1,449 @@
+INFO 2022-07-13 06:59:04,529 root  **************************************We are having new list formed*************************************
+INFO 2022-07-13 06:59:04,530 root  Exercise 2 Question 1: Try to reverse a list
+INFO 2022-07-13 06:59:04,530 root  Answer : 
+INFO 2022-07-13 06:59:04,530 root  [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-13 06:59:04,530 root  Exercise 2 Question 3: try to access 456
+INFO 2022-07-13 06:59:04,530 root  Answer : 
+INFO 2022-07-13 06:59:04,530 root  456
+INFO 2022-07-13 06:59:04,530 root  Exercise 2 Question 4: try to extract only a list collection form list l
+INFO 2022-07-13 06:59:04,530 root  Answer:
+INFO 2022-07-13 06:59:04,530 root  [23, 456, 67, 8, 78, 78]
+INFO 2022-07-13 06:59:04,530 root  [345, 56, 87, 8, 98, 9]
+INFO 2022-07-13 06:59:04,530 root  Exercise 2 Question 5: Try to extract "sudh"
+INFO 2022-07-13 06:59:04,530 root  Answer : sudh
+INFO 2022-07-13 06:59:04,530 root  Exercise 3 Question 5: Try to extract all the list entity
+INFO 2022-07-13 06:59:04,531 root  Answer : 
+INFO 2022-07-13 06:59:04,531 root  [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2022-07-13 07:00:05,499 root  **************************************We are having new list formed*************************************
+INFO 2022-07-13 07:00:05,499 root  Exercise 2 Question 1: Try to reverse a list
+INFO 2022-07-13 07:00:05,499 root  Answer : 
+INFO 2022-07-13 07:00:05,499 root  [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-13 07:00:05,499 root  Exercise 2 Question 3: try to access 456
+INFO 2022-07-13 07:00:05,499 root  Answer : 
+INFO 2022-07-13 07:00:05,499 root  456
+INFO 2022-07-13 07:00:05,499 root  Exercise 2 Question 4: try to extract only a list collection form list l
+INFO 2022-07-13 07:00:05,499 root  Answer:
+INFO 2022-07-13 07:00:05,499 root  [23, 456, 67, 8, 78, 78]
+INFO 2022-07-13 07:00:05,499 root  [345, 56, 87, 8, 98, 9]
+INFO 2022-07-13 07:00:05,499 root  Exercise 2 Question 5: Try to extract "sudh"
+INFO 2022-07-13 07:00:05,499 root  Answer : sudh
+INFO 2022-07-13 07:00:05,499 root  Exercise 3 Question 5: Try to extract all the list entity
+INFO 2022-07-13 07:00:05,499 root  Answer : 
+INFO 2022-07-13 07:00:05,499 root  [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2022-07-13 07:00:05,499 root  Exercise 3 Question 5: Try to extract all the tuples entities
+INFO 2022-07-13 07:00:05,499 root  Answer : 
+INFO 2022-07-13 07:00:05,499 root  (2, 3, 4, 5, 6)
+INFO 2022-07-13 07:00:05,499 root  (3, 4, 5, 6, 7)
+INFO 2022-07-13 07:00:05,500 root  Exercise 1 Question 1: try to extract data from index one to index 30 with a jump of 3
+INFO 2022-07-13 07:00:05,500 root  Answer:
+INFO 2022-07-13 07:00:05,500 root  h   r tnrr
+INFO 2022-07-13 07:00:05,500 root  Exercise 1 Question 2: Try to reverse a string without using reverse string function
+INFO 2022-07-13 07:00:05,500 root  Answer:
+INFO 2022-07-13 07:00:05,500 root  noitcnuf sti dna gnirts nohtypGNINrael ma i dna ssalc gnimmargorP nohtyP tsriF yM si siht
+INFO 2022-07-13 07:00:05,500 root  Exercise 1 Question 3: Try to split a string after conversion of entire string in upper case
+INFO 2022-07-13 07:00:05,500 root  Answer:
+INFO 2022-07-13 07:00:05,500 root  ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNINGPYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO 2022-07-13 07:00:05,500 root  Exercise 1 Question 4: Try to convert the whole string into lower case
+INFO 2022-07-13 07:00:05,500 root  Answer:
+INFO 2022-07-13 07:00:05,500 root  THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNINGPYTHON STRING AND ITS FUNCTION
+INFO 2022-07-13 07:00:05,500 root  Exercise 1 Question 5: Try to capitalize the whole string
+INFO 2022-07-13 07:00:05,500 root  Answer:
+INFO 2022-07-13 07:00:05,500 root  This is my first python programming class and i am learningpython string and its function
+INFO 2022-07-13 07:00:05,500 root  Exercise 1 Question 7: Try to give an example of expandtab
+INFO 2022-07-13 07:00:05,500 root  Answer:
+INFO 2022-07-13 07:00:05,500 root  Good    Morning         Students
+INFO 2022-07-13 07:00:05,500 root  Exercise 1 Question 8: Give an example of strip, lstrip and rstrip
+INFO 2022-07-13 07:00:05,500 root  Answer:
+INFO 2022-07-13 07:00:05,500 root  String after applying strip : iNeuron
+INFO 2022-07-13 07:00:05,500 root  String after applying lstrip: iNeuron        
+INFO 2022-07-13 07:00:05,500 root  String after applying rstrip:        iNeuron
+INFO 2022-07-13 07:00:05,500 root  Exercise 1 Question 9: Replace a string character by another character by taking your own example
+INFO 2022-07-13 07:00:05,500 root  Answer:
+INFO 2022-07-13 07:00:05,500 root  I am luuking at muun
+INFO 2022-07-13 07:00:05,501 root  Exercise 3 Question 12: Try to filter out all the string data
+INFO 2022-07-13 07:00:05,501 root  Answer:
+INFO 2022-07-13 07:00:05,501 root  ['k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 'ineuron', 'data science ']
+INFO 2022-07-13 07:00:05,501 root  Exercise 2 Question 6: Try to list all the key in dict element avaible in list
+INFO 2022-07-13 07:00:05,501 root  Answer : 
+INFO 2022-07-13 07:00:05,501 root  ['key1', 234]
+INFO 2022-07-13 07:00:05,501 root  Exercise 2 Question 7: Try to extract all the value element form dict available in list
+INFO 2022-07-13 07:00:05,501 root  Answer : 
+INFO 2022-07-13 07:00:05,501 root  ['sudh', [23, 45, 656]]
+INFO 2022-07-13 07:00:05,501 root  Exercise 3 Question 4: Try to extract all the dict entities
+INFO 2022-07-13 07:00:05,501 root  Answer : 
+INFO 2022-07-13 07:00:05,501 root  {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2022-07-13 07:00:05,501 root  Exercise 3 Question 4: Try to find out number of keys in dict element
+INFO 2022-07-13 07:00:05,501 root  Answer : 
+INFO 2022-07-13 07:00:05,501 root  5
+INFO 2022-07-13 07:00:24,865 root  **************************************We are having new list formed*************************************
+INFO 2022-07-13 07:00:24,865 root  Exercise 2 Question 1: Try to reverse a list
+INFO 2022-07-13 07:00:24,865 root  Answer : 
+INFO 2022-07-13 07:00:24,865 root  [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-13 07:00:24,865 root  Exercise 2 Question 3: try to access 456
+INFO 2022-07-13 07:00:24,865 root  Answer : 
+INFO 2022-07-13 07:00:24,865 root  456
+INFO 2022-07-13 07:00:24,865 root  Exercise 2 Question 4: try to extract only a list collection form list l
+INFO 2022-07-13 07:00:24,865 root  Answer:
+INFO 2022-07-13 07:00:24,865 root  [23, 456, 67, 8, 78, 78]
+INFO 2022-07-13 07:00:24,865 root  [345, 56, 87, 8, 98, 9]
+INFO 2022-07-13 07:00:24,865 root  Exercise 2 Question 5: Try to extract "sudh"
+INFO 2022-07-13 07:00:24,865 root  Answer : sudh
+INFO 2022-07-13 07:00:24,865 root  Exercise 3 Question 5: Try to extract all the list entity
+INFO 2022-07-13 07:00:24,866 root  Answer : 
+INFO 2022-07-13 07:00:24,866 root  [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2022-07-13 07:00:24,866 root  Exercise 3 Question 5: Try to extract all the tuples entities
+INFO 2022-07-13 07:00:24,866 root  Answer : 
+INFO 2022-07-13 07:00:24,866 root  (2, 3, 4, 5, 6)
+INFO 2022-07-13 07:00:24,866 root  (3, 4, 5, 6, 7)
+INFO 2022-07-13 07:00:24,866 root  Exercise 1 Question 1: try to extract data from index one to index 30 with a jump of 3
+INFO 2022-07-13 07:00:24,866 root  Answer:
+INFO 2022-07-13 07:00:24,866 root  h   r tnrr
+INFO 2022-07-13 07:00:24,866 root  Exercise 1 Question 2: Try to reverse a string without using reverse string function
+INFO 2022-07-13 07:00:24,866 root  Answer:
+INFO 2022-07-13 07:00:24,866 root  noitcnuf sti dna gnirts nohtypGNINrael ma i dna ssalc gnimmargorP nohtyP tsriF yM si siht
+INFO 2022-07-13 07:00:24,866 root  Exercise 1 Question 3: Try to split a string after conversion of entire string in upper case
+INFO 2022-07-13 07:00:24,866 root  Answer:
+INFO 2022-07-13 07:00:24,866 root  ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNINGPYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO 2022-07-13 07:00:24,866 root  Exercise 1 Question 4: Try to convert the whole string into lower case
+INFO 2022-07-13 07:00:24,866 root  Answer:
+INFO 2022-07-13 07:00:24,866 root  THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNINGPYTHON STRING AND ITS FUNCTION
+INFO 2022-07-13 07:00:24,866 root  Exercise 1 Question 5: Try to capitalize the whole string
+INFO 2022-07-13 07:00:24,866 root  Answer:
+INFO 2022-07-13 07:00:24,866 root  This is my first python programming class and i am learningpython string and its function
+INFO 2022-07-13 07:00:24,866 root  Exercise 1 Question 7: Try to give an example of expandtab
+INFO 2022-07-13 07:00:24,866 root  Answer:
+INFO 2022-07-13 07:00:24,867 root  Good    Morning         Students
+INFO 2022-07-13 07:00:24,867 root  Exercise 1 Question 8: Give an example of strip, lstrip and rstrip
+INFO 2022-07-13 07:00:24,867 root  Answer:
+INFO 2022-07-13 07:00:24,867 root  String after applying strip : iNeuron
+INFO 2022-07-13 07:00:24,867 root  String after applying lstrip: iNeuron        
+INFO 2022-07-13 07:00:24,867 root  String after applying rstrip:        iNeuron
+INFO 2022-07-13 07:00:24,867 root  Exercise 1 Question 9: Replace a string character by another character by taking your own example
+INFO 2022-07-13 07:00:24,867 root  Answer:
+INFO 2022-07-13 07:00:24,867 root  I am luuking at muun
+INFO 2022-07-13 07:00:24,867 root  Exercise 3 Question 12: Try to filter out all the string data
+INFO 2022-07-13 07:00:24,867 root  Answer:
+INFO 2022-07-13 07:00:24,867 root  ['k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 'ineuron', 'data science ']
+INFO 2022-07-13 07:00:24,867 root  Exercise 2 Question 6: Try to list all the key in dict element avaible in list
+INFO 2022-07-13 07:00:24,867 root  Answer : 
+INFO 2022-07-13 07:00:24,867 root  ['key1', 234]
+INFO 2022-07-13 07:00:24,867 root  Exercise 2 Question 7: Try to extract all the value element form dict available in list
+INFO 2022-07-13 07:00:24,867 root  Answer : 
+INFO 2022-07-13 07:00:24,867 root  ['sudh', [23, 45, 656]]
+INFO 2022-07-13 07:00:24,867 root  Exercise 3 Question 4: Try to extract all the dict entities
+INFO 2022-07-13 07:00:24,867 root  Answer : 
+INFO 2022-07-13 07:00:24,867 root  {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2022-07-13 07:00:24,867 root  Exercise 3 Question 4: Try to find out number of keys in dict element
+INFO 2022-07-13 07:00:24,867 root  Answer : 
+INFO 2022-07-13 07:00:24,867 root  5
+INFO 2022-07-13 07:02:47,042 root  **************************************We are having new list formed*************************************
+INFO 2022-07-13 07:02:47,042 root  Exercise 2 Question 1: Try to reverse a list
+INFO 2022-07-13 07:02:47,042 root  Answer : 
+INFO 2022-07-13 07:02:47,042 root  [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-13 07:02:47,042 root  Exercise 2 Question 3: try to access 456
+INFO 2022-07-13 07:02:47,042 root  Answer : 
+INFO 2022-07-13 07:02:47,042 root  456
+INFO 2022-07-13 07:02:47,042 root  Exercise 2 Question 4: try to extract only a list collection form list l
+INFO 2022-07-13 07:02:47,042 root  Answer:
+INFO 2022-07-13 07:02:47,042 root  [23, 456, 67, 8, 78, 78]
+INFO 2022-07-13 07:02:47,043 root  [345, 56, 87, 8, 98, 9]
+INFO 2022-07-13 07:02:47,043 root  Exercise 2 Question 5: Try to extract "sudh"
+INFO 2022-07-13 07:02:47,043 root  Answer : sudh
+INFO 2022-07-13 07:02:47,043 root  Exercise 3 Question 5: Try to extract all the list entity
+INFO 2022-07-13 07:02:47,043 root  Answer : 
+INFO 2022-07-13 07:02:47,043 root  [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2022-07-13 07:02:47,043 root  Exercise 3 Question 5: Try to extract all the tuples entities
+INFO 2022-07-13 07:02:47,043 root  Answer : 
+INFO 2022-07-13 07:02:47,043 root  (2, 3, 4, 5, 6)
+INFO 2022-07-13 07:02:47,043 root  (3, 4, 5, 6, 7)
+INFO 2022-07-13 07:02:47,043 root  Exercise 1 Question 1: try to extract data from index one to index 30 with a jump of 3
+INFO 2022-07-13 07:02:47,043 root  Answer:
+INFO 2022-07-13 07:02:47,043 root  h   r tnrr
+INFO 2022-07-13 07:02:47,043 root  Exercise 1 Question 2: Try to reverse a string without using reverse string function
+INFO 2022-07-13 07:02:47,043 root  Answer:
+INFO 2022-07-13 07:02:47,043 root  noitcnuf sti dna gnirts nohtypGNINrael ma i dna ssalc gnimmargorP nohtyP tsriF yM si siht
+INFO 2022-07-13 07:02:47,043 root  Exercise 1 Question 3: Try to split a string after conversion of entire string in upper case
+INFO 2022-07-13 07:02:47,044 root  Answer:
+INFO 2022-07-13 07:02:47,044 root  ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNINGPYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO 2022-07-13 07:02:47,044 root  Exercise 1 Question 4: Try to convert the whole string into lower case
+INFO 2022-07-13 07:02:47,044 root  Answer:
+INFO 2022-07-13 07:02:47,044 root  THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNINGPYTHON STRING AND ITS FUNCTION
+INFO 2022-07-13 07:02:47,044 root  Exercise 1 Question 5: Try to capitalize the whole string
+INFO 2022-07-13 07:02:47,044 root  Answer:
+INFO 2022-07-13 07:02:47,044 root  This is my first python programming class and i am learningpython string and its function
+INFO 2022-07-13 07:02:47,044 root  Exercise 1 Question 7: Try to give an example of expandtab
+INFO 2022-07-13 07:02:47,044 root  Answer:
+INFO 2022-07-13 07:02:47,044 root  Good    Morning         Students
+INFO 2022-07-13 07:02:47,044 root  Exercise 1 Question 8: Give an example of strip, lstrip and rstrip
+INFO 2022-07-13 07:02:47,044 root  Answer:
+INFO 2022-07-13 07:02:47,044 root  String after applying strip : iNeuron
+INFO 2022-07-13 07:02:47,044 root  String after applying lstrip: iNeuron        
+INFO 2022-07-13 07:02:47,044 root  String after applying rstrip:        iNeuron
+INFO 2022-07-13 07:02:47,044 root  Exercise 1 Question 9: Replace a string character by another character by taking your own example
+INFO 2022-07-13 07:02:47,044 root  Answer:
+INFO 2022-07-13 07:02:47,044 root  I am luuking at muun
+INFO 2022-07-13 07:02:47,044 root  Exercise 3 Question 12: Try to filter out all the string data
+INFO 2022-07-13 07:02:47,044 root  Answer:
+INFO 2022-07-13 07:02:47,044 root  ['k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 'ineuron', 'data science ']
+INFO 2022-07-13 07:02:47,044 root  Exercise 2 Question 6: Try to list all the key in dict element avaible in list
+INFO 2022-07-13 07:02:47,044 root  Answer : 
+INFO 2022-07-13 07:02:47,044 root  ['key1', 234]
+INFO 2022-07-13 07:02:47,044 root  Exercise 2 Question 7: Try to extract all the value element form dict available in list
+INFO 2022-07-13 07:02:47,044 root  Answer : 
+INFO 2022-07-13 07:02:47,044 root  ['sudh', [23, 45, 656]]
+INFO 2022-07-13 07:02:47,045 root  Exercise 3 Question 4: Try to extract all the dict entities
+INFO 2022-07-13 07:02:47,045 root  Answer : 
+INFO 2022-07-13 07:02:47,045 root  {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2022-07-13 07:02:47,045 root  Exercise 3 Question 4: Try to find out number of keys in dict element
+INFO 2022-07-13 07:02:47,045 root  Answer : 
+INFO 2022-07-13 07:02:47,045 root  5
+INFO 2022-07-13 07:07:48,114 root  **************************************We are having new list formed*************************************
+INFO 2022-07-13 07:07:48,114 root  Exercise 2 Question 1: Try to reverse a list
+INFO 2022-07-13 07:07:48,114 root  Answer : 
+INFO 2022-07-13 07:07:48,114 root  [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-13 07:07:48,114 root  Exercise 2 Question 3: try to access 456
+INFO 2022-07-13 07:07:48,114 root  Answer : 
+INFO 2022-07-13 07:07:48,114 root  456
+INFO 2022-07-13 07:07:48,114 root  Exercise 2 Question 4: try to extract only a list collection form list l
+INFO 2022-07-13 07:07:48,114 root  Answer:
+INFO 2022-07-13 07:07:48,114 root  [23, 456, 67, 8, 78, 78]
+INFO 2022-07-13 07:07:48,115 root  [345, 56, 87, 8, 98, 9]
+INFO 2022-07-13 07:07:48,115 root  Exercise 2 Question 5: Try to extract "sudh"
+INFO 2022-07-13 07:07:48,115 root  Answer : sudh
+INFO 2022-07-13 07:07:48,115 root  Exercise 3 Question 5: Try to extract all the list entity
+INFO 2022-07-13 07:07:48,115 root  Answer : 
+INFO 2022-07-13 07:07:48,115 root  [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2022-07-13 07:07:48,115 root  Exercise 3 Question 5: Try to extract all the tuples entities
+INFO 2022-07-13 07:07:48,115 root  Answer : 
+INFO 2022-07-13 07:07:48,115 root  (2, 3, 4, 5, 6)
+INFO 2022-07-13 07:07:48,115 root  (3, 4, 5, 6, 7)
+INFO 2022-07-13 07:07:48,115 root  Exercise 1 Question 1: try to extract data from index one to index 30 with a jump of 3
+INFO 2022-07-13 07:07:48,115 root  Answer:
+INFO 2022-07-13 07:07:48,115 root  h   r tnrr
+INFO 2022-07-13 07:07:48,115 root  Exercise 1 Question 2: Try to reverse a string without using reverse string function
+INFO 2022-07-13 07:07:48,115 root  Answer:
+INFO 2022-07-13 07:07:48,115 root  noitcnuf sti dna gnirts nohtypGNINrael ma i dna ssalc gnimmargorP nohtyP tsriF yM si siht
+INFO 2022-07-13 07:07:48,115 root  Exercise 1 Question 3: Try to split a string after conversion of entire string in upper case
+INFO 2022-07-13 07:07:48,115 root  Answer:
+INFO 2022-07-13 07:07:48,115 root  ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNINGPYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO 2022-07-13 07:07:48,115 root  Exercise 1 Question 4: Try to convert the whole string into lower case
+INFO 2022-07-13 07:07:48,115 root  Answer:
+INFO 2022-07-13 07:07:48,115 root  THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNINGPYTHON STRING AND ITS FUNCTION
+INFO 2022-07-13 07:07:48,115 root  Exercise 1 Question 5: Try to capitalize the whole string
+INFO 2022-07-13 07:07:48,115 root  Answer:
+INFO 2022-07-13 07:07:48,115 root  This is my first python programming class and i am learningpython string and its function
+INFO 2022-07-13 07:07:48,115 root  Exercise 1 Question 7: Try to give an example of expandtab
+INFO 2022-07-13 07:07:48,115 root  Answer:
+INFO 2022-07-13 07:07:48,116 root  Good    Morning         Students
+INFO 2022-07-13 07:07:48,116 root  Exercise 1 Question 8: Give an example of strip, lstrip and rstrip
+INFO 2022-07-13 07:07:48,116 root  Answer:
+INFO 2022-07-13 07:07:48,116 root  String after applying strip : iNeuron
+INFO 2022-07-13 07:07:48,116 root  String after applying lstrip: iNeuron        
+INFO 2022-07-13 07:07:48,116 root  String after applying rstrip:        iNeuron
+INFO 2022-07-13 07:07:48,116 root  Exercise 1 Question 9: Replace a string character by another character by taking your own example
+INFO 2022-07-13 07:07:48,116 root  Answer:
+INFO 2022-07-13 07:07:48,116 root  I am luuking at muun
+INFO 2022-07-13 07:07:48,116 root  Exercise 3 Question 12: Try to filter out all the string data
+INFO 2022-07-13 07:07:48,116 root  Answer:
+INFO 2022-07-13 07:07:48,116 root  ['k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 'ineuron', 'data science ']
+INFO 2022-07-13 07:07:48,116 root  Exercise 2 Question 6: Try to list all the key in dict element avaible in list
+INFO 2022-07-13 07:07:48,116 root  Answer : 
+INFO 2022-07-13 07:07:48,116 root  ['key1', 234]
+INFO 2022-07-13 07:07:48,116 root  Exercise 2 Question 7: Try to extract all the value element form dict available in list
+INFO 2022-07-13 07:07:48,116 root  Answer : 
+INFO 2022-07-13 07:07:48,116 root  ['sudh', [23, 45, 656]]
+INFO 2022-07-13 07:07:48,116 root  Exercise 3 Question 4: Try to extract all the dict entities
+INFO 2022-07-13 07:07:48,116 root  Answer : 
+INFO 2022-07-13 07:07:48,116 root  {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2022-07-13 07:07:48,116 root  Exercise 3 Question 4: Try to find out number of keys in dict element
+INFO 2022-07-13 07:07:48,116 root  Answer : 
+INFO 2022-07-13 07:07:48,116 root  5
+INFO 2022-07-13 07:08:18,880 root  **************************************We are having new list formed*************************************
+INFO 2022-07-13 07:08:21,426 root  Exercise 2 Question 1: Try to reverse a list
+INFO 2022-07-13 07:08:21,426 root  Answer : 
+INFO 2022-07-13 07:08:21,426 root  [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-13 07:08:23,164 root  Exercise 2 Question 3: try to access 456
+INFO 2022-07-13 07:08:23,164 root  Answer : 
+INFO 2022-07-13 07:08:23,164 root  456
+INFO 2022-07-13 07:08:24,096 root  Exercise 2 Question 4: try to extract only a list collection form list l
+INFO 2022-07-13 07:08:24,096 root  Answer:
+INFO 2022-07-13 07:08:24,096 root  [23, 456, 67, 8, 78, 78]
+INFO 2022-07-13 07:08:24,096 root  [345, 56, 87, 8, 98, 9]
+INFO 2022-07-13 07:08:24,952 root  Exercise 2 Question 5: Try to extract "sudh"
+INFO 2022-07-13 07:08:24,952 root  Answer : sudh
+INFO 2022-07-13 07:08:25,822 root  Exercise 3 Question 5: Try to extract all the list entity
+INFO 2022-07-13 07:08:25,822 root  Answer : 
+INFO 2022-07-13 07:08:25,822 root  [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2022-07-13 07:08:32,725 root  Exercise 3 Question 5: Try to extract all the tuples entities
+INFO 2022-07-13 07:08:32,725 root  Answer : 
+INFO 2022-07-13 07:08:32,726 root  (2, 3, 4, 5, 6)
+INFO 2022-07-13 07:08:32,726 root  (3, 4, 5, 6, 7)
+INFO 2022-07-13 07:09:02,374 root  Exercise 1 Question 1: try to extract data from index one to index 30 with a jump of 3
+INFO 2022-07-13 07:09:02,375 root  Answer:
+INFO 2022-07-13 07:09:02,375 root  h   r tnrr
+INFO 2022-07-13 07:09:02,931 root  Exercise 1 Question 2: Try to reverse a string without using reverse string function
+INFO 2022-07-13 07:09:02,931 root  Answer:
+INFO 2022-07-13 07:09:02,932 root  noitcnuf sti dna gnirts nohtypGNINrael ma i dna ssalc gnimmargorP nohtyP tsriF yM si siht
+INFO 2022-07-13 07:09:03,290 root  Exercise 1 Question 3: Try to split a string after conversion of entire string in upper case
+INFO 2022-07-13 07:09:03,291 root  Answer:
+INFO 2022-07-13 07:09:03,291 root  ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNINGPYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO 2022-07-13 07:09:03,674 root  Exercise 1 Question 4: Try to convert the whole string into lower case
+INFO 2022-07-13 07:09:03,675 root  Answer:
+INFO 2022-07-13 07:09:03,675 root  THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNINGPYTHON STRING AND ITS FUNCTION
+INFO 2022-07-13 07:09:03,983 root  Exercise 1 Question 5: Try to capitalize the whole string
+INFO 2022-07-13 07:09:03,984 root  Answer:
+INFO 2022-07-13 07:09:03,984 root  This is my first python programming class and i am learningpython string and its function
+INFO 2022-07-13 07:09:04,262 root  Exercise 1 Question 7: Try to give an example of expandtab
+INFO 2022-07-13 07:09:04,262 root  Answer:
+INFO 2022-07-13 07:09:04,263 root  Good    Morning         Students
+INFO 2022-07-13 07:09:04,555 root  Exercise 1 Question 8: Give an example of strip, lstrip and rstrip
+INFO 2022-07-13 07:09:04,556 root  Answer:
+INFO 2022-07-13 07:09:04,556 root  String after applying strip : iNeuron
+INFO 2022-07-13 07:09:04,556 root  String after applying lstrip: iNeuron        
+INFO 2022-07-13 07:09:04,557 root  String after applying rstrip:        iNeuron
+INFO 2022-07-13 07:09:04,946 root  Exercise 1 Question 9: Replace a string character by another character by taking your own example
+INFO 2022-07-13 07:09:04,946 root  Answer:
+INFO 2022-07-13 07:09:04,947 root  I am luuking at muun
+INFO 2022-07-13 07:09:05,239 root  Exercise 3 Question 12: Try to filter out all the string data
+INFO 2022-07-13 07:09:05,240 root  Answer:
+INFO 2022-07-13 07:09:05,240 root  ['k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 'ineuron', 'data science ']
+INFO 2022-07-13 07:09:05,937 root  Exercise 2 Question 6: Try to list all the key in dict element avaible in list
+INFO 2022-07-13 07:09:05,937 root  Answer : 
+INFO 2022-07-13 07:09:05,937 root  ['key1', 234]
+INFO 2022-07-13 07:09:06,215 root  Exercise 2 Question 7: Try to extract all the value element form dict available in list
+INFO 2022-07-13 07:09:06,215 root  Answer : 
+INFO 2022-07-13 07:09:06,216 root  ['sudh', [23, 45, 656]]
+INFO 2022-07-13 07:09:06,464 root  Exercise 3 Question 4: Try to extract all the dict entities
+INFO 2022-07-13 07:09:06,464 root  Answer : 
+INFO 2022-07-13 07:09:06,464 root  {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2022-07-13 07:09:06,698 root  Exercise 3 Question 4: Try to find out number of keys in dict element
+INFO 2022-07-13 07:09:06,699 root  Answer : 
+INFO 2022-07-13 07:09:06,699 root  5
+INFO 2022-07-14 06:35:36,052 root  **************************************We are having new list formed*************************************
+INFO 2022-07-14 06:35:36,052 root  Exercise 2 Question 1: Try to reverse a list
+INFO 2022-07-14 06:35:36,052 root  Answer : 
+INFO 2022-07-14 06:35:36,052 root  [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-14 06:35:36,052 root  Exercise 2 Question 3: try to access 456
+INFO 2022-07-14 06:35:36,052 root  Answer : 
+INFO 2022-07-14 06:35:36,052 root  456
+INFO 2022-07-14 06:35:36,052 root  Exercise 2 Question 4: try to extract only a list collection form list l
+INFO 2022-07-14 06:35:36,052 root  Answer:
+INFO 2022-07-14 06:35:36,052 root  [23, 456, 67, 8, 78, 78]
+INFO 2022-07-14 06:35:36,052 root  [345, 56, 87, 8, 98, 9]
+INFO 2022-07-14 06:35:36,052 root  Exercise 2 Question 5: Try to extract "sudh"
+INFO 2022-07-14 06:35:36,052 root  Answer : sudh
+INFO 2022-07-14 06:35:36,052 root  Exercise 3 Question 5: Try to extract all the list entity
+INFO 2022-07-14 06:35:36,052 root  Answer : 
+INFO 2022-07-14 06:35:36,052 root  [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2022-07-14 06:35:36,052 root  **************************************We are having new list formed*************************************
+INFO 2022-07-14 06:35:36,052 root  Exercise 3 Question 5: Try to extract all the tuples entities
+INFO 2022-07-14 06:35:36,052 root  Answer : 
+INFO 2022-07-14 06:35:36,052 root  (2, 3, 4, 5, 6)
+INFO 2022-07-14 06:35:36,052 root  (3, 4, 5, 6, 7)
+INFO 2022-07-14 06:35:36,052 root  **************************************We are having new list formed*************************************
+INFO 2022-07-14 06:35:36,052 root  Exercise 1 Question 1: try to extract data from index one to index 30 with a jump of 3
+INFO 2022-07-14 06:35:36,052 root  Answer:
+INFO 2022-07-14 06:35:36,052 root  h   r tnrr
+INFO 2022-07-14 06:35:36,052 root  Exercise 1 Question 2: Try to reverse a string without using reverse string function
+INFO 2022-07-14 06:35:36,052 root  Answer:
+INFO 2022-07-14 06:35:36,052 root  noitcnuf sti dna gnirts nohtypGNINrael ma i dna ssalc gnimmargorP nohtyP tsriF yM si siht
+INFO 2022-07-14 06:35:36,052 root  Exercise 1 Question 3: Try to split a string after conversion of entire string in upper case
+INFO 2022-07-14 06:35:36,052 root  Answer:
+INFO 2022-07-14 06:35:36,052 root  ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNINGPYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO 2022-07-14 06:35:36,052 root  Exercise 1 Question 4: Try to convert the whole string into lower case
+INFO 2022-07-14 06:35:36,052 root  Answer:
+INFO 2022-07-14 06:35:36,052 root  THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNINGPYTHON STRING AND ITS FUNCTION
+INFO 2022-07-14 06:35:36,052 root  Exercise 1 Question 5: Try to capitalize the whole string
+INFO 2022-07-14 06:35:36,052 root  Answer:
+INFO 2022-07-14 06:35:36,052 root  This is my first python programming class and i am learningpython string and its function
+INFO 2022-07-14 06:35:36,052 root  Exercise 1 Question 7: Try to give an example of expandtab
+INFO 2022-07-14 06:35:36,052 root  Answer:
+INFO 2022-07-14 06:35:36,052 root  Good    Morning         Students
+INFO 2022-07-14 06:35:36,052 root  Exercise 1 Question 8: Give an example of strip, lstrip and rstrip
+INFO 2022-07-14 06:35:36,052 root  Answer:
+INFO 2022-07-14 06:35:36,052 root  String after applying strip : iNeuron
+INFO 2022-07-14 06:35:36,052 root  String after applying lstrip: iNeuron        
+INFO 2022-07-14 06:35:36,052 root  String after applying rstrip:        iNeuron
+INFO 2022-07-14 06:35:36,052 root  Exercise 1 Question 9: Replace a string character by another character by taking your own example
+INFO 2022-07-14 06:35:36,052 root  Answer:
+INFO 2022-07-14 06:35:36,052 root  I am luuking at muun
+INFO 2022-07-14 06:35:36,052 root  Exercise 3 Question 12: Try to filter out all the string data
+INFO 2022-07-14 06:35:36,052 root  Answer:
+INFO 2022-07-14 06:35:36,052 root  ['k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 'ineuron', 'data science ']
+INFO 2022-07-14 06:35:36,052 root  **************************************We are having new list formed*************************************
+INFO 2022-07-14 06:35:36,052 root  Exercise 2 Question 6: Try to list all the key in dict element avaible in list
+INFO 2022-07-14 06:35:36,052 root  Answer : 
+INFO 2022-07-14 06:35:36,052 root  ['key1', 234]
+INFO 2022-07-14 06:35:36,052 root  Exercise 2 Question 7: Try to extract all the value element form dict available in list
+INFO 2022-07-14 06:35:36,052 root  Answer : 
+INFO 2022-07-14 06:35:36,052 root  ['sudh', [23, 45, 656]]
+INFO 2022-07-14 06:35:36,052 root  Exercise 3 Question 4: Try to extract all the dict entities
+INFO 2022-07-14 06:35:36,052 root  Answer : 
+INFO 2022-07-14 06:35:36,052 root  {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2022-07-14 06:35:36,052 root  Exercise 3 Question 4: Try to find out number of keys in dict element
+INFO 2022-07-14 06:35:36,052 root  Answer : 
+INFO 2022-07-14 06:35:36,052 root  5
+INFO 2022-07-14 06:36:13,000 root  **************************************We are having new list formed*************************************
+INFO 2022-07-14 06:36:13,000 root  Exercise 2 Question 1: Try to reverse a list
+INFO 2022-07-14 06:36:13,000 root  Answer : 
+INFO 2022-07-14 06:36:13,000 root  [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-14 06:36:13,000 root  Exercise 2 Question 3: try to access 456
+INFO 2022-07-14 06:36:13,000 root  Answer : 
+INFO 2022-07-14 06:36:13,000 root  456
+INFO 2022-07-14 06:36:13,000 root  Exercise 2 Question 4: try to extract only a list collection form list l
+INFO 2022-07-14 06:36:13,000 root  Answer:
+INFO 2022-07-14 06:36:13,000 root  [23, 456, 67, 8, 78, 78]
+INFO 2022-07-14 06:36:13,000 root  [345, 56, 87, 8, 98, 9]
+INFO 2022-07-14 06:36:13,000 root  Exercise 2 Question 5: Try to extract "sudh"
+INFO 2022-07-14 06:36:13,000 root  Answer : sudh
+INFO 2022-07-14 06:36:13,000 root  Exercise 3 Question 5: Try to extract all the list entity
+INFO 2022-07-14 06:36:13,000 root  Answer : 
+INFO 2022-07-14 06:36:13,000 root  [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2022-07-14 06:36:13,000 root  **************************************We are having new list formed*************************************
+INFO 2022-07-14 06:36:13,000 root  Exercise 3 Question 5: Try to extract all the tuples entities
+INFO 2022-07-14 06:36:13,000 root  Answer : 
+INFO 2022-07-14 06:36:13,000 root  (2, 3, 4, 5, 6)
+INFO 2022-07-14 06:36:13,000 root  (3, 4, 5, 6, 7)
+INFO 2022-07-14 06:36:13,000 root  **************************************We are having new list formed*************************************
+INFO 2022-07-14 06:36:13,000 root  Exercise 1 Question 1: try to extract data from index one to index 30 with a jump of 3
+INFO 2022-07-14 06:36:13,000 root  Answer:
+INFO 2022-07-14 06:36:13,000 root  h   r tnrr
+INFO 2022-07-14 06:36:13,000 root  Exercise 1 Question 2: Try to reverse a string without using reverse string function
+INFO 2022-07-14 06:36:13,000 root  Answer:
+INFO 2022-07-14 06:36:13,000 root  noitcnuf sti dna gnirts nohtypGNINrael ma i dna ssalc gnimmargorP nohtyP tsriF yM si siht
+INFO 2022-07-14 06:36:13,000 root  Exercise 1 Question 3: Try to split a string after conversion of entire string in upper case
+INFO 2022-07-14 06:36:13,000 root  Answer:
+INFO 2022-07-14 06:36:13,000 root  ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNINGPYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO 2022-07-14 06:36:13,000 root  Exercise 1 Question 4: Try to convert the whole string into lower case
+INFO 2022-07-14 06:36:13,000 root  Answer:
+INFO 2022-07-14 06:36:13,000 root  THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNINGPYTHON STRING AND ITS FUNCTION
+INFO 2022-07-14 06:36:13,000 root  Exercise 1 Question 5: Try to capitalize the whole string
+INFO 2022-07-14 06:36:13,000 root  Answer:
+INFO 2022-07-14 06:36:13,000 root  This is my first python programming class and i am learningpython string and its function
+INFO 2022-07-14 06:36:13,000 root  Exercise 1 Question 7: Try to give an example of expandtab
+INFO 2022-07-14 06:36:13,000 root  Answer:
+INFO 2022-07-14 06:36:13,000 root  Good    Morning         Students
+INFO 2022-07-14 06:36:13,000 root  Exercise 1 Question 8: Give an example of strip, lstrip and rstrip
+INFO 2022-07-14 06:36:13,000 root  Answer:
+INFO 2022-07-14 06:36:13,000 root  String after applying strip : iNeuron
+INFO 2022-07-14 06:36:13,000 root  String after applying lstrip: iNeuron        
+INFO 2022-07-14 06:36:13,000 root  String after applying rstrip:        iNeuron
+INFO 2022-07-14 06:36:13,000 root  Exercise 1 Question 9: Replace a string character by another character by taking your own example
+INFO 2022-07-14 06:36:13,000 root  Answer:
+INFO 2022-07-14 06:36:13,000 root  I am luuking at muun
+INFO 2022-07-14 06:36:13,000 root  Exercise 3 Question 12: Try to filter out all the string data
+INFO 2022-07-14 06:36:13,000 root  Answer:
+INFO 2022-07-14 06:36:13,000 root  ['k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 'ineuron', 'data science ']
+INFO 2022-07-14 06:36:13,000 root  **************************************We are having new list formed*************************************
+INFO 2022-07-14 06:36:13,000 root  Exercise 2 Question 6: Try to list all the key in dict element avaible in list
+INFO 2022-07-14 06:36:13,000 root  Answer : 
+INFO 2022-07-14 06:36:13,000 root  ['key1', 234]
+INFO 2022-07-14 06:36:13,000 root  Exercise 2 Question 7: Try to extract all the value element form dict available in list
+INFO 2022-07-14 06:36:13,000 root  Answer : 
+INFO 2022-07-14 06:36:13,000 root  ['sudh', [23, 45, 656]]
+INFO 2022-07-14 06:36:13,000 root  Exercise 3 Question 4: Try to extract all the dict entities
+INFO 2022-07-14 06:36:13,000 root  Answer : 
+INFO 2022-07-14 06:36:13,016 root  {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2022-07-14 06:36:13,016 root  Exercise 3 Question 4: Try to find out number of keys in dict element
+INFO 2022-07-14 06:36:13,016 root  Answer : 
+INFO 2022-07-14 06:36:13,016 root  5
